@@ -1,0 +1,23 @@
+{
+  "name": "iot-mi-home-devicehive-adapter",
+  "version": "1.0.0",
+  "description": "IoT Mi Home adapter for DeviceHive platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bankex.github.com:BankEx/iot-mi-home-devicehive-adapter.git"
+  },
+  "keywords": [
+    "IoT",
+    "BankeEx"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "devicehive": "^1.1.1",
+    "miio": "^0.13.0"
+  }
+}
